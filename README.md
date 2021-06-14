@@ -17,6 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harleenkaur11&show_icons=true&locale=en" alt="harleenkaur11" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harleenkaur11&" alt="harleenkaur11" /></p>
 
 <!---
 Harleenkaur11/Harleenkaur11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
